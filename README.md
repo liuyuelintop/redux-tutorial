@@ -1,4 +1,6 @@
-## This is a repo to learn basic Redux Toolkit.
+# A simple Counter using Redux
+
+This repository is designed to learn the basic usage of the Redux Toolkit.
 
 Learning Materials:
 
